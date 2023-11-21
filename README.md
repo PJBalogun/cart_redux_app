@@ -22,10 +22,9 @@ npm run dev
 
 ## Credit
 
-[Nikhil Thadani] ![Blank 2 Grids Collage](https://github.com/PJBalogun/cart_redux_app/assets/77397898/e7840847-d10e-4eb1-9ced-33ba544d0bcc)
-(@https://www.youtube.com/channel/UCaKqU7lmR4wQ5Bj9F9E9i_Q)
+Nikhil Thadani - @https://www.youtube.com/channel/UCaKqU7lmR4wQ5Bj9F9E9i_Q
 
-[FreeCodeCamp] (@https://www.freecodecamp.org)
+FreeCodeCamp - @https://www.freecodecamp.org
 
 ![r2](https://github.com/PJBalogun/cart_redux_app/assets/77397898/da509c32-4223-4777-b769-66b8b7475ac8)
 
